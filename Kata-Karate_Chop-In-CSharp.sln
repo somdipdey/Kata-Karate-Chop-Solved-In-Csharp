@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata-Karate_Chop-In-CSharp", "Kata-Karate_Chop-In-CSharp\Kata-Karate_Chop-In-CSharp.csproj", "{238EFF2D-5464-4316-80B0-A7F026F56DBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test-For-Kata-Karate_Chop", "Test-For-Kata-Karate_Chop\Test-For-Kata-Karate_Chop.csproj", "{AF695FE2-3A8C-4BF0-8F71-33ED34371869}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{238EFF2D-5464-4316-80B0-A7F026F56DBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{238EFF2D-5464-4316-80B0-A7F026F56DBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{238EFF2D-5464-4316-80B0-A7F026F56DBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{238EFF2D-5464-4316-80B0-A7F026F56DBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF695FE2-3A8C-4BF0-8F71-33ED34371869}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF695FE2-3A8C-4BF0-8F71-33ED34371869}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF695FE2-3A8C-4BF0-8F71-33ED34371869}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF695FE2-3A8C-4BF0-8F71-33ED34371869}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

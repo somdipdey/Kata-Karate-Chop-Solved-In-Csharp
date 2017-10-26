@@ -1,5 +1,7 @@
 # Kata-Karate-Chop-Solved-In-Csharp
-Solved solution along with tests for Kata02: Karate Chop (A binary chop (sometimes called the more prosaic binary search)) :  http://codekata.com/kata/kata02-karate-chop/ 
+Solved solution along with tests for Kata02: Karate Chop (A binary chop (sometimes called the more prosaic binary search)) inspired from :  http://codekata.com/kata/kata02-karate-chop/ 
+
+In this project/solution, only one implementation in CSharp (C#) is demonstrated. You can carry on with the adventure on developing other solutions as well.
 
 # The Challenge
 
